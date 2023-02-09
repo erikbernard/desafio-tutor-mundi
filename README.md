@@ -38,7 +38,7 @@ Para iniciá-lo, siga os passos abaixo:
 
 ## 💻 Projeto
 
-Projeto desenvolvido durante o processo seletivo da [TuTor Mundi](https://tutormundi.com/), a crição de uma pagina de  avaliação da satisfação.
+Projeto desenvolvido durante o processo seletivo da [TuTor Mundi](https://tutormundi.com/), a crição de uma pagina de avaliação da satisfação do usuário.
 
 
 ## 🔖 Layout
